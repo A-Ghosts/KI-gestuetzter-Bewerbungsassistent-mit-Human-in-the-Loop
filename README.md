@@ -30,6 +30,9 @@ KI-Agenten und ein Human-in-the-Loop-Konzept.
 ## n8n-Workflow
 Platzhalter gesetzt für WebhookID: "YOUR_WEBHOOK_ID_HERE"
 
+<img width="1207" height="617" alt="n8n-Worfklow-Screenshot" src="https://github.com/user-attachments/assets/fb2fb020-e9d1-46fc-8c5e-564dfee659c9" />
+
+
 ## Status
 
 🚧 MVP in Entwicklung
