@@ -27,6 +27,9 @@ KI-Agenten und ein Human-in-the-Loop-Konzept.
 | Python | Datenverarbeitung & Scoring |
 | JSON / Markdown | Konfiguration |
 
+## n8n-Workflow
+Platzhalter gesetzt für WebhookID: "YOUR_WEBHOOK_ID_HERE"
+
 ## Status
 
 🚧 MVP in Entwicklung
