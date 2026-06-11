@@ -9,6 +9,7 @@ secrets.json
 *_webhook*
 
 # Webhook IDs
+webhookId
 webhook_ids.json
 webhook_ids.txt
 webhook*.json
