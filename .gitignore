@@ -1,0 +1,23 @@
+# API Keys & Secrets
+.env
+*.env
+secrets.json
+
+# n8n Exports mit persönlichen Daten
+*_personal*
+*_credentials*
+*_webhook*
+
+# Webhook IDs
+webhook_ids.json
+webhook_ids.txt
+webhook*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
