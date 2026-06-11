@@ -1,0 +1,1 @@
+Konfigurationsvorlagen (Suchparameter-JSON)
